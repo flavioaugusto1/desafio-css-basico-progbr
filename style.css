@@ -1,0 +1,19 @@
+body {
+    background-image: url(./imagens/backgorund.png);
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#item1 {
+    list-style-image: url(./imagens/Insta.png);
+}
+
+#item2 {
+    list-style-image: url(./imagens/Twitter.png);
+}
+
+#item3 {
+    list-style-image: url(./imagens/Youtube.png);
+}
+
